@@ -598,7 +598,7 @@ SPLIT FILE OFF.
 
 CORRELATIONS
   /VARIABLES=Arith_lIFG_Cui_anticipation Arith_lDLPFC_Cui_anticipation Arith_rIFG_Cui_anticipation 
-    Arith_rDLPFC_Cui_anticipation Arith_SAC_Cui_anticipation korrigiert_Cortisol_Konzentration.2 
+    Arith_rDLPFC_Cui_anticipation Arith_SAC_Cui_anticipation korrigiert_Cortisol_Konzentration.3 
     TSST_BPM.arit NA2 staterum_rest2_totalscore Stress_5
   /PRINT=TWOTAIL NOSIG FULL
   /MISSING=PAIRWISE.
@@ -607,7 +607,7 @@ CORRELATIONS
 
 CORRELATIONS
   /VARIABLES=Arith_lIFG_Cui_trialnoanticipation Arith_lDLPFC_Cui_trialnoanticipation Arith_rIFG_Cui_trialnoanticipation 
-    Arith_rDLPFC_Cui_trialnoanticipation Arith_SAC_Cui_trialnoanticipation korrigiert_Cortisol_Konzentration.2 
+    Arith_rDLPFC_Cui_trialnoanticipation Arith_SAC_Cui_trialnoanticipation korrigiert_Cortisol_Konzentration.3 
     TSST_BPM.arit NA2 staterum_rest2_totalscore Stress_5
   /PRINT=TWOTAIL NOSIG FULL
   /MISSING=PAIRWISE.
@@ -616,7 +616,7 @@ CORRELATIONS
 
 CORRELATIONS
   /VARIABLES=Arith_lIFG_Cui_trialstandard Arith_lDLPFC_Cui_trialstandard Arith_rIFG_Cui_trialstandard
-    Arith_rDLPFC_Cui_trialstandard Arith_SAC_Cui_trialstandard korrigiert_Cortisol_Konzentration.2 
+    Arith_rDLPFC_Cui_trialstandard Arith_SAC_Cui_trialstandard korrigiert_Cortisol_Konzentration.3 
     TSST_BPM.arit NA2 staterum_rest2_totalscore Stress_5
   /PRINT=TWOTAIL NOSIG FULL
   /MISSING=PAIRWISE.
